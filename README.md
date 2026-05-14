@@ -25,3 +25,13 @@ Contributions welcome — open issues or pull requests.
 License
 Specify a license if you want to open-source this project.
 
+
+## Screenshots
+
+Project screenshots (click to view full size):
+
+![Screenshot 1](public/screenshots/Screenshot-1.png)
+
+![Screenshot 2](public/screenshots/screenshot-2.png)
+
+![Screenshot 3](public/screenshots/screenshot-3.png)
